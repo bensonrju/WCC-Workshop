@@ -1,5 +1,5 @@
 print("Hello World!")
 
-userData = input("Please enter your Social Security Number:  ")
+userData = input("Please enter your WCC ID:  ")
 
-print("Your SSN is " + userData + "? Okay I'll keep it a secret!")
+print("Student with email " + userData + "@wccnet.edu has signed into tutoring.")
