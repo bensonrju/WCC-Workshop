@@ -1,5 +1,6 @@
 print("Hello World!")
 
-userData = input("Please enter your Birthday:  ")
+userData = input("Please enter your WCC ID:  ")
 
-print("Interesting Birthday. I don't care.")
+print("Student with email " + userData + "@wccnet.edu has signed into tutoring.")
+
