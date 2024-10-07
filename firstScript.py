@@ -1,5 +1,5 @@
 print("Hello World!")
 
-userData = input("Please enter your Social Security Number:  ")
+userData = input("Please enter your Birthday:  ")
 
-print("Your SSN is " + userData + "? Okay I'll keep it a secret!")
+print("Interesting Birthday. I don't care.")
